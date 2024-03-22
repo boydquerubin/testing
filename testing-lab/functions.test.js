@@ -43,3 +43,22 @@ describe("Formatting Strings", () => {
     expect(actual).toBe(expected);
   });
 });
+
+// THIS IS FROM FUNCTIONS.JS
+// function returnTwo(int) {
+//   return 2;
+// }
+
+// function greeting(name) {
+//   return `Hello, ${name}`;
+// }
+
+// function add(num1, num2) {
+//   return num1 + num2;
+// }
+
+// module.exports = {
+//   returnTwo,
+//   greeting,
+//   add,
+// };
