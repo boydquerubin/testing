@@ -45,6 +45,7 @@ describe("Formatting Strings", () => {
 });
 
 // THIS IS FROM FUNCTIONS.JS
+// CHANGE IN PACKAGE.JSON, CHANGE TEST TO "JEST"
 // function returnTwo(int) {
 //   return 2;
 // }
